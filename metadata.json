@@ -1,0 +1,6 @@
+{
+  "name": "StockBridge",
+  "description": "Connecting Businesses with Trusted Storage Solutions. A platform for companies to find available nearby storage and providers to list their empty warehouses, godowns, shops, or storage rooms.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
